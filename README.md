@@ -42,7 +42,7 @@ principles of angular momentum & allows accurate recognition of movement within 
 In contrast, an accelerometer is a compact device designed to measure non-gravitational
 acceleration.
 UCI HAR Dataset Description
-The dataset includes the following files,
+The dataset includes the following files:-
 - 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector
 - 'features.txt': List of all features.
