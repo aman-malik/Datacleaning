@@ -17,7 +17,7 @@ library(dplyr)
 library(data.table)
 library(tidyr)
 
-filesPath <- "C:/Users/aman.malik/OneDrive - Teletrac Navman/Desktop/First R Project/Coursera Quiz/Datacleaning/Datacleaning/UCI HAR Dataset"
+filesPath <- "C:/Users/aman.malik/OneDrive - XXXX/Desktop/First R Project/Coursera Quiz/Datacleaning/Datacleaning/UCI HAR Dataset"
 
 # Read subject files
 dataSubjectTrain <- tbl_df(read.table(file.path(filesPath, "train", "subject_train.txt")))
