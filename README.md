@@ -20,7 +20,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 02. I assume the original data files have been downloaded & extracted locally in appropriate
 folders
-03. The raw data files are NOT included in this analysis.
+03. The raw data files are included in the Datacleaning repo.
 04. Variable Selection Criteria
 The raw sensor data fetaures are being extracted by the application of a set of signal
 filters. The features are chosen because they are assumed to have significance to the
